@@ -13,9 +13,10 @@ for hero in heroes:
     if hero['name'] in ['Hulk','Captain America', 'Thanos']:
         our_heroes = {hero['name']:hero['powerstats']['intelligence']} 
 
-print(max(our_heroes, key=our_heroes.get))  
+print(max(our_heroes, key=our_heroes.get))
 
-  
-         
+
+    
+ 
             
                 
