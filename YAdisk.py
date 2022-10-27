@@ -1,7 +1,7 @@
 from pprint import pprint
 
 import requests
-Yandex_Token = 'y0_AgAAAABloBLcAADLWwAAAADSSbXmrnK5_RNuSN643aWGDXmLGFNXI8U'
+Yandex_Token = ''
 
 class YaUploader:
     host = 'https://cloud-api.yandex.net:443'
